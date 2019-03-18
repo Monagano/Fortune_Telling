@@ -6,7 +6,7 @@ Fortune_Telling
 ## Description
 
 ## Demo
-[Github pages](https://monagano.github.io/Fortune_Telling/shuffle.html)
+[Github pages](https://monagano.github.io/Fortune_Telling/)
 ## Requirement
 
 ## Install
