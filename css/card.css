@@ -1,0 +1,21 @@
+ul {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+}
+#card {
+  margin: 150px auto 0;
+  width: 300px;
+  position: relative;
+  list-style: none;
+}
+#card li {
+  position: absolute;
+}
+
+#text {  position: absolute;
+  right: 100;
+
+}
